@@ -1,5 +1,4 @@
 # Histogram-Visualizer
----
 Assignment 1 for CMPT276-D200 for Summer 2023
 
 ## Assignment details
