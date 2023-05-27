@@ -39,22 +39,6 @@ for(let i = 0; i < inputs.length-1; i++){
     });
 }
 
-// // listen for change in bounds list
-// inputs.forEach(input => {
-//     input.addEventListener('input', function() {
-//         var newValue = input.value;
-//         console.log('New value:', newValue);
-//         if (!isNaN(newValue) && (newValue >= 0 && newValue <= 100)){
-//             noBoundOverlapCheck(input)
-//             drawHistogram();
-//             helperText[0].classList.add("invisible");
-//         } else {
-//             helperText[0].classList.remove("invisible");
-//             input.value = ""; // Clear the input field
-//         }
-//     });
-// });
-
 // Add event listener to submit btn so add new grade to grades array
 btn.addEventListener("click", () => {
     // Get the value from the input field and parse it as a float
