@@ -1,5 +1,5 @@
 # Histogram-Visualizer
-Assignment 1 for CMPT276-D200 for Summer 2023
+Simple HTML, CSS, JS Grade visualizer for a list of student grades
 
 ## Assignment details
 - create an interactable grading scale that shows how many students fall into each grade range
